@@ -1,0 +1,7 @@
+C:\Users\Kolotyuk\source\repos\home_work_strings_c_sharp\home_work_strings_c_sharp\bin\Debug\home_work_strings_c_sharp.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_strings_c_sharp\home_work_strings_c_sharp\bin\Debug\home_work_strings_c_sharp.exe
+C:\Users\Kolotyuk\source\repos\home_work_strings_c_sharp\home_work_strings_c_sharp\bin\Debug\home_work_strings_c_sharp.pdb
+C:\Users\Kolotyuk\source\repos\home_work_strings_c_sharp\home_work_strings_c_sharp\obj\Debug\home_work_strings_c_sharp.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_strings_c_sharp\home_work_strings_c_sharp\obj\Debug\home_work_strings_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_strings_c_sharp\home_work_strings_c_sharp\obj\Debug\home_work_strings_c_sharp.exe
+C:\Users\Kolotyuk\source\repos\home_work_strings_c_sharp\home_work_strings_c_sharp\obj\Debug\home_work_strings_c_sharp.pdb
